@@ -50,7 +50,7 @@ Amaç; tekliften poliçeye, ödemeden hasar süreçlerine kadar tüm adımları 
 
 ```bash
 # Repository klonla
-git clone https://github.com/kullaniciadi/insurceed.git
+[git clone https://github.com/kullaniciadi/insurceed.git](https://github.com/Aliylmaz/Insurceed-Insurance-Management-System.git)
 cd insurceed/backend
 
 # application.properties içinde PostgreSQL bilgilerini düzenle
