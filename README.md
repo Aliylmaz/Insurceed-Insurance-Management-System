@@ -50,8 +50,8 @@ Amaç; tekliften poliçeye, ödemeden hasar süreçlerine kadar tüm adımları 
 
 ```bash
 # Repository klonla
-[git clone https://github.com/kullaniciadi/insurceed.git](https://github.com/Aliylmaz/Insurceed-Insurance-Management-System.git)
-cd insurceed/backend
+git clone https://github.com/Aliylmaz/Insurceed-Insurance-Management-System.git
+cd insurance-app/backend
 
 # application.properties içinde PostgreSQL bilgilerini düzenle
 spring.datasource.url=jdbc:postgresql://localhost:5432/insurceed
