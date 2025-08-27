@@ -1,0 +1,9 @@
+package com.ada.insurance_app.core.enums;
+
+public enum OfferStatus {
+    PENDING,
+    APPROVED,
+    REJECTED,
+    CONVERTED,
+    PAID
+}
